@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 1500px;
+    margin: auto;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 60px;
+    margin-bottom: 40px;
+    background-color: rgba(17, 175, 173, 0.3);
+    color: rgba(0, 0, 0, 0.7);
+}
+#instruction{
+    padding-top: 10px;
+    box-shadow: lightslategrey 0px 0px 2px 3px;
+    width: 500px;
+    margin:auto;
+    margin-bottom: 30px;
+}
+button{
+    margin-top: 40px;
+    width: 50%;
+    padding: 30px;
+    font-size: 50px;
+    background-color: rgba(200, 100, 100, 0.7);
+    color: rgba(0, 0, 0, 0.8);
+    position: relative;
+    left: 50%;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    padding-left: 40px;
+    background-color:cadetblue;
+    color: lightcyan;
+}
+p{ 
+    margin-bottom: 26px;
+    color: grey;
+    padding-left: 20px;
+}
+td{
+    padding: 2px 10px;
+    background-color: rgba(255, 255, 255, 0.4);
+    color: rgba(0, 0, 0, 0.7);
+}
+.numSe{
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+table{
+    box-shadow: cadetblue 0px 0px 3px 3px;
+}
+th{
+    padding: 12px;
+    text-align: left;
+    background-color: rgba(229, 222, 181, 0.9);
+}
+tr{
+    background-color: darkseagreen;
+}
+#aT{
+    width: 100%;
+    margin:auto;
+}
+#choice1{
+    padding: 30px;
+
+}
+span{
+    padding: 13px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 3px;
+    background-color: orange;
+}
+#s1{
+    padding-right: 1%;
+    background-color: blanchedalmond;
+}
+#but1{
+    width: 100%;
+    margin-top: 12px;
+    border-bottom: black 30px double;
+    border-bottom-left-radius: 50%;
+}
+#errM{
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+    color: blueviolet;
+    box-shadow: #8d6ca7 0px 0px 3px 3px;
+}
+
+#resM{
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+    box-shadow: cadetblue 0px 0px 3px 3px;
+}
